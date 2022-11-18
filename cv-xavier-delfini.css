@@ -1,0 +1,28 @@
+.Side {
+    color:white;
+}
+.Main {
+    color:black;
+    font-family: Cambria,Georgia,serif;  
+}
+.small {
+    font-size: small;
+}
+body {
+    background-color: #403e3f  ;
+    text-align: center ;
+    }
+.test {
+        font-style: italic;
+    }
+    img{
+        border: 2px solid;
+  border-image:black ;
+  padding: 1.5px;
+    }
+    a[href^="https"] ,a {
+        color: black;
+    }
+    #mail[href^="mailto"] {
+        color: white;
+    }
